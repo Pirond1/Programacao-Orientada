@@ -1,0 +1,10 @@
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoSoma\ProjetoSoma\bin\Debug\ProjetoSoma.exe.config
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoSoma\ProjetoSoma\bin\Debug\ProjetoSoma.exe
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoSoma\ProjetoSoma\bin\Debug\ProjetoSoma.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.csproj.AssemblyReference.cache
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.Form1.resources
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.Properties.Resources.resources
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.csproj.GenerateResource.cache
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.csproj.CoreCompileInputs.cache
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.exe
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoSoma\ProjetoSoma\obj\Debug\ProjetoSoma.pdb
