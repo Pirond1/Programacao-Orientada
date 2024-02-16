@@ -33,7 +33,10 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.mult = new System.Windows.Forms.Button();
+            this.div = new System.Windows.Forms.Button();
+            this.sub = new System.Windows.Forms.Button();
+            this.soma = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtnumero1
@@ -73,28 +76,63 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(343, 72);
+            this.label3.Location = new System.Drawing.Point(329, 77);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(123, 13);
+            this.label3.Size = new System.Drawing.Size(151, 13);
             this.label3.TabIndex = 4;
-            this.label3.Text = "SOMA DE 2 NUMEROS";
+            this.label3.Text = "OPERAÇÃO DE 2 NUMEROS";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
-            // button1
+            // mult
             // 
-            this.button1.Location = new System.Drawing.Point(360, 259);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(82, 26);
-            this.button1.TabIndex = 5;
-            this.button1.Text = "SOMAR";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.mult.Location = new System.Drawing.Point(413, 260);
+            this.mult.Name = "mult";
+            this.mult.Size = new System.Drawing.Size(90, 26);
+            this.mult.TabIndex = 6;
+            this.mult.Text = "MULTIPLICAR";
+            this.mult.UseVisualStyleBackColor = true;
+            this.mult.Click += new System.EventHandler(this.mult_Click);
+            // 
+            // div
+            // 
+            this.div.Location = new System.Drawing.Point(509, 260);
+            this.div.Name = "div";
+            this.div.Size = new System.Drawing.Size(90, 26);
+            this.div.TabIndex = 7;
+            this.div.Text = "DIVIDIR";
+            this.div.UseVisualStyleBackColor = true;
+            this.div.Click += new System.EventHandler(this.div_Click);
+            // 
+            // sub
+            // 
+            this.sub.Location = new System.Drawing.Point(317, 260);
+            this.sub.Name = "sub";
+            this.sub.Size = new System.Drawing.Size(90, 26);
+            this.sub.TabIndex = 8;
+            this.sub.Text = "SUBTRAIR";
+            this.sub.UseVisualStyleBackColor = true;
+            this.sub.Click += new System.EventHandler(this.sub_Click);
+            // 
+            // soma
+            // 
+            this.soma.Location = new System.Drawing.Point(221, 260);
+            this.soma.Name = "soma";
+            this.soma.Size = new System.Drawing.Size(90, 26);
+            this.soma.TabIndex = 9;
+            this.soma.Text = "SOMAR";
+            this.soma.UseVisualStyleBackColor = true;
+            this.soma.Click += new System.EventHandler(this.soma_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.soma);
+            this.Controls.Add(this.sub);
+            this.Controls.Add(this.div);
+            this.Controls.Add(this.mult);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -115,7 +153,10 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button mult;
+        private System.Windows.Forms.Button div;
+        private System.Windows.Forms.Button sub;
+        private System.Windows.Forms.Button soma;
     }
 }
 

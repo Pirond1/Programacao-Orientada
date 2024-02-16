@@ -32,13 +32,44 @@ namespace ProjetoSoma
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void label3_Click(object sender, EventArgs e)
         {
-            int N1, N2, soma;
-            N1 = int.Parse(txtnumero1.Text);
-            N2 = int.Parse(txtnumero2.Text);
+            
+        }
+        private void soma_Click(object sender, EventArgs e)
+        {
+            float N1, N2, soma;
+            N1 = float.Parse(txtnumero1.Text);
+            N2 = float.Parse(txtnumero2.Text);
             soma = N1 + N2;
-            MessageBox.Show($"A Soma dos Numeros Informados é: {soma}");
+            MessageBox.Show("A Soma dos Numeros Informados é: " + soma);
+        }
+
+        private void sub_Click(object sender, EventArgs e)
+        {
+            float N1, N2, sub;
+            N1 = float.Parse(txtnumero1.Text);
+            N2 = float.Parse(txtnumero2.Text);
+            sub = N1 - N2;
+            MessageBox.Show("A Subtração dos Numeros Informados é: " + sub);
+        }
+
+        private void mult_Click(object sender, EventArgs e)
+        {
+            float N1, N2, mult;
+            N1 = float.Parse(txtnumero1.Text);
+            N2 = float.Parse(txtnumero2.Text);
+            mult = N1 * N2;
+            MessageBox.Show("A Multiplicação dos Numeros Informados é: " + mult);
+        }
+
+        private void div_Click(object sender, EventArgs e)
+        {
+            float N1, N2, div;
+            N1 = float.Parse(txtnumero1.Text);
+            N2 = float.Parse(txtnumero2.Text);
+            div = N1 / N2;
+            MessageBox.Show("A Divisão dos Numeros Informados é: " + div);
         }
     }
 }
