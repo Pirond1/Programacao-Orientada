@@ -74,8 +74,8 @@ namespace Projeto1_2_
                 txtCidade.Clear();
                 txtEstado.Clear();
                 
-                cbbCurso.Text = "";
-                cbbDisciplina.Text = "";
+                cbbCurso.SelectedIndex = -1;
+                cbbDisciplina.SelectedIndex = -1;
                 MessageBox.Show("Matricula Enviada!");
             }
             if (validar != "")
