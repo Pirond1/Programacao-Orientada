@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\Projeto1(1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3541E-64F7-41B9-B96B-90816300FE20}|Projeto1(1)\\Projeto1(1).csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\projeto1(1)\\projeto1(1)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBA3541E-64F7-41B9-B96B-90816300FE20}|Projeto1(1)\\Projeto1(1).csproj|solutionrelative:projeto1(1)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA3541E-64F7-41B9-B96B-90816300FE20}|Projeto1(1)\\Projeto1(1).csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\projeto1(1)\\projeto1(1)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA3541E-64F7-41B9-B96B-90816300FE20}|Projeto1(1)\\Projeto1(1).csproj|solutionrelative:projeto1(1)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\Projeto1(1)\\Projeto1(1)\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto1(1)\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\Projeto1(1)\\Projeto1(1)\\Form1.cs",
+              "RelativeToolTip": "Projeto1(1)\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T18:15:49.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\Projeto1(1)\\Projeto1(1)\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto1(1)\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\Projeto1(1)\\Projeto1(1)\\Form1.cs [Design]",
+              "RelativeToolTip": "Projeto1(1)\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T18:14:20.39Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

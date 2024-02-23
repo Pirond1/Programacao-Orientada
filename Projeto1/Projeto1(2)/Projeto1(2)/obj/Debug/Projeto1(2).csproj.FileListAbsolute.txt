@@ -1,0 +1,10 @@
+C:\Users\User\Documents\GitHub\Programacao-Orientada\Projeto1(2)\Projeto1(2)\bin\Debug\Projeto1(2).exe.config
+C:\Users\User\Documents\GitHub\Programacao-Orientada\Projeto1(2)\Projeto1(2)\bin\Debug\Projeto1(2).exe
+C:\Users\User\Documents\GitHub\Programacao-Orientada\Projeto1(2)\Projeto1(2)\bin\Debug\Projeto1(2).pdb
+C:\Users\User\Documents\GitHub\Programacao-Orientada\Projeto1(2)\Projeto1(2)\obj\Debug\Projeto1(2).csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Programacao-Orientada\Projeto1(2)\Projeto1(2)\obj\Debug\Projeto1_2_.Form1.resources
+C:\Users\User\Documents\GitHub\Programacao-Orientada\Projeto1(2)\Projeto1(2)\obj\Debug\Projeto1_2_.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\Programacao-Orientada\Projeto1(2)\Projeto1(2)\obj\Debug\Projeto1(2).csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\Programacao-Orientada\Projeto1(2)\Projeto1(2)\obj\Debug\Projeto1(2).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Programacao-Orientada\Projeto1(2)\Projeto1(2)\obj\Debug\Projeto1(2).exe
+C:\Users\User\Documents\GitHub\Programacao-Orientada\Projeto1(2)\Projeto1(2)\obj\Debug\Projeto1(2).pdb
