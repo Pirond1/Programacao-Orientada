@@ -62,7 +62,40 @@ namespace Aula1
                 validar += "\r\nInformar o Estado!";
             else
                 resumo += "\r\nEstado: " + cbbEstado.Text;
-            //Terminar de Validar!!!
+
+            if (txtDataNascimento.Text == "")
+                validar += "\r\nInformar a Data de Nascimento!";
+            else
+                resumo += "\r\nData de Nascimento : " + txtDataNascimento.Text;
+
+            if (cbbCidade.Text == "")
+                validar += "\r\nInformar a Cidade!";
+            else
+                resumo += "\r\nCidade : " + cbbCidade.Text;
+
+            if (rbtFeminino.Checked || rbtMasculino.Checked || rbtInformar.Checked)
+            {
+                if (rbtFeminino.Checked)
+                    resumo += "\r\nGênero : Feminino";
+                else 
+                    if (rbtMasculino.Checked)
+                        resumo += "\r\nGênero : Masculino";
+                        else 
+                            resumo += "\r\nGênero : Não Informar";
+            }
+            else
+                validar += "\r\nInformar o Gênero!";
+
+            if (clbLinguagens.CheckedItems.Count > 0)
+            {
+                resumo += "\r\nLinguagens : ";
+                for (int i = 0; i < clbLinguagens.CheckedItems.Count; i++)
+                {
+                    resumo += clbLinguagens.CheckedItems[i].ToString() + ", ";
+                }
+            }
+            else
+                validar += "\r\nInformar as Linguagens!";
 
             if (validar != "")
                 MessageBox.Show(validar);
