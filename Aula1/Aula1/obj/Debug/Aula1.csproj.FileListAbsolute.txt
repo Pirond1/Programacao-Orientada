@@ -9,3 +9,5 @@ C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\Aula1\Aula1\obj\D
 C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\Aula1\Aula1\obj\Debug\Aula1.exe
 C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\Aula1\Aula1\obj\Debug\Aula1.pdb
 C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\Aula1\Aula1\obj\Debug\Aula1.FrmCadastro.resources
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\Aula1\Aula1\obj\Debug\Aula1.FrmPrincipal.resources
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\Aula1\Aula1\obj\Debug\Aula1.FrmCalculo1.resources

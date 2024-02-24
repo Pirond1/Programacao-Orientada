@@ -23,5 +23,19 @@ namespace Aula1
             FrmCadastro frm = new FrmCadastro();
             frm.ShowDialog();
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            //validar os dados
+            if (txtEmail.Text == "admin@admin.com" && txtSenha.Text == "123456")
+            {
+                txtEmail.Text = "";
+                txtSenha.Text = "";
+                FrmPrincipal principal = new FrmPrincipal();
+                principal.ShowDialog();
+            }
+            else
+                MessageBox.Show("Dados Invalidos!");
+        }
     }
 }
