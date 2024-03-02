@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -58,6 +59,16 @@ namespace Aula1
             else
                 resumo = "Nome: " + txtNome.Text;
 
+            if (txtEmail.Text == "")
+                validar += "\r\nInformar o E-mail!";
+            else
+                resumo += "\r\nE-mail: " + txtEmail.Text;
+
+            if (txtSenha.Text == "")
+                validar += "\r\nInformar a Senha!";
+            else
+                resumo += "\r\nSenha: " + txtSenha.Text;
+
             if (cbbEstado.Text == "")
                 validar += "\r\nInformar o Estado!";
             else
@@ -100,8 +111,22 @@ namespace Aula1
             if (validar != "")
                 MessageBox.Show(validar);
             else
+            {
                 txtResumo.Text = resumo;
+                gravarArquivo();
+            }
+        }
 
+        public void gravarArquivo()
+        {
+            String caminho = "C:\\Users\\gustavopirondi\\Documents\\GitHub\\Programacao-Orientada\\Aula1\\Arquivo\\Dados.txt";
+            StreamWriter Arquivo = null;
+            if(!File.Exists(caminho))
+                Arquivo = File.CreateText(caminho); //Criar
+            else
+                Arquivo = File.AppendText(caminho); //Ja Existe
+            Arquivo.WriteLine(txtNome.Text + "|" + txtEmail.Text + "|" + txtSenha.Text);
+            Arquivo.Close();
         }
     }
 }

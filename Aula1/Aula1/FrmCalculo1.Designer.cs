@@ -35,10 +35,10 @@
             this.label3 = new System.Windows.Forms.Label();
             this.txtValor = new System.Windows.Forms.TextBox();
             this.lbbProdutos = new System.Windows.Forms.ListBox();
-            this.btnAdicionar = new System.Windows.Forms.Button();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtTotal = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.btnRemover = new System.Windows.Forms.Button();
+            this.btnAdicionar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -113,54 +113,57 @@
             this.lbbProdutos.Size = new System.Drawing.Size(166, 147);
             this.lbbProdutos.TabIndex = 6;
             // 
-            // btnAdicionar
+            // txtTotal
             // 
-            this.btnAdicionar.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.btnAdicionar.Location = new System.Drawing.Point(529, 38);
-            this.btnAdicionar.Name = "btnAdicionar";
-            this.btnAdicionar.Size = new System.Drawing.Size(34, 36);
-            this.btnAdicionar.TabIndex = 7;
-            this.btnAdicionar.Text = "+";
-            this.btnAdicionar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnAdicionar.UseVisualStyleBackColor = true;
-            this.btnAdicionar.Click += new System.EventHandler(this.btnAdicionar_Click);
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(358, 364);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 10;
+            this.txtTotal.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTotal.Location = new System.Drawing.Point(372, 359);
+            this.txtTotal.Name = "txtTotal";
+            this.txtTotal.ReadOnly = true;
+            this.txtTotal.Size = new System.Drawing.Size(86, 31);
+            this.txtTotal.TabIndex = 10;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(295, 367);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(61, 13);
+            this.label4.Size = new System.Drawing.Size(78, 13);
             this.label4.TabIndex = 9;
-            this.label4.Text = "Valor Total:";
+            this.label4.Text = "Valor Total: R$";
             // 
             // btnRemover
             // 
-            this.btnRemover.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F);
-            this.btnRemover.Location = new System.Drawing.Point(253, 177);
+            this.btnRemover.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            this.btnRemover.Location = new System.Drawing.Point(253, 171);
             this.btnRemover.Name = "btnRemover";
-            this.btnRemover.Size = new System.Drawing.Size(34, 36);
+            this.btnRemover.Size = new System.Drawing.Size(59, 36);
             this.btnRemover.TabIndex = 11;
-            this.btnRemover.Text = "-";
+            this.btnRemover.Text = "Remover";
             this.btnRemover.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnRemover.UseVisualStyleBackColor = true;
+            this.btnRemover.Click += new System.EventHandler(this.btnRemover_Click);
+            // 
+            // btnAdicionar
+            // 
+            this.btnAdicionar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            this.btnAdicionar.Location = new System.Drawing.Point(522, 45);
+            this.btnAdicionar.Name = "btnAdicionar";
+            this.btnAdicionar.Size = new System.Drawing.Size(59, 36);
+            this.btnAdicionar.TabIndex = 12;
+            this.btnAdicionar.Text = "Adicionar";
+            this.btnAdicionar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnAdicionar.UseVisualStyleBackColor = true;
+            this.btnAdicionar.Click += new System.EventHandler(this.btnAdicionar_Click);
             // 
             // FrmCalculo1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.btnRemover);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.label4);
             this.Controls.Add(this.btnAdicionar);
+            this.Controls.Add(this.btnRemover);
+            this.Controls.Add(this.txtTotal);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.lbbProdutos);
             this.Controls.Add(this.txtValor);
             this.Controls.Add(this.label3);
@@ -185,9 +188,9 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox txtValor;
         private System.Windows.Forms.ListBox lbbProdutos;
-        private System.Windows.Forms.Button btnAdicionar;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtTotal;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button btnRemover;
+        private System.Windows.Forms.Button btnAdicionar;
     }
 }

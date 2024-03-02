@@ -46,13 +46,17 @@
             this.label5 = new System.Windows.Forms.Label();
             this.btnSalvar = new System.Windows.Forms.Button();
             this.txtResumo = new System.Windows.Forms.TextBox();
+            this.txtEmail = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.txtSenha = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(51, 53);
+            this.label1.Location = new System.Drawing.Point(51, 20);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 0;
@@ -60,7 +64,7 @@
             // 
             // txtNome
             // 
-            this.txtNome.Location = new System.Drawing.Point(54, 69);
+            this.txtNome.Location = new System.Drawing.Point(54, 36);
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(236, 20);
             this.txtNome.TabIndex = 1;
@@ -73,19 +77,19 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(347, 53);
+            this.label2.Location = new System.Drawing.Point(347, 20);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(104, 13);
-            this.label2.TabIndex = 3;
+            this.label2.TabIndex = 2;
             this.label2.Text = "Data de Nascimento";
             // 
             // txtDataNascimento
             // 
             this.txtDataNascimento.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.txtDataNascimento.Location = new System.Drawing.Point(350, 69);
+            this.txtDataNascimento.Location = new System.Drawing.Point(350, 36);
             this.txtDataNascimento.Name = "txtDataNascimento";
             this.txtDataNascimento.Size = new System.Drawing.Size(101, 20);
-            this.txtDataNascimento.TabIndex = 4;
+            this.txtDataNascimento.TabIndex = 3;
             this.txtDataNascimento.Value = new System.DateTime(2024, 2, 16, 21, 20, 21, 0);
             // 
             // label3
@@ -94,7 +98,7 @@
             this.label3.Location = new System.Drawing.Point(347, 121);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(40, 13);
-            this.label3.TabIndex = 5;
+            this.label3.TabIndex = 10;
             this.label3.Text = "Cidade";
             // 
             // label4
@@ -103,7 +107,7 @@
             this.label4.Location = new System.Drawing.Point(51, 121);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(40, 13);
-            this.label4.TabIndex = 7;
+            this.label4.TabIndex = 8;
             this.label4.Text = "Estado";
             // 
             // cbbEstado
@@ -127,7 +131,7 @@
             this.cbbCidade.Location = new System.Drawing.Point(350, 137);
             this.cbbCidade.Name = "cbbCidade";
             this.cbbCidade.Size = new System.Drawing.Size(236, 21);
-            this.cbbCidade.TabIndex = 10;
+            this.cbbCidade.TabIndex = 11;
             // 
             // rbtFeminino
             // 
@@ -135,7 +139,7 @@
             this.rbtFeminino.Location = new System.Drawing.Point(16, 22);
             this.rbtFeminino.Name = "rbtFeminino";
             this.rbtFeminino.Size = new System.Drawing.Size(67, 17);
-            this.rbtFeminino.TabIndex = 11;
+            this.rbtFeminino.TabIndex = 13;
             this.rbtFeminino.TabStop = true;
             this.rbtFeminino.Text = "Feminino";
             this.rbtFeminino.UseVisualStyleBackColor = true;
@@ -146,7 +150,7 @@
             this.rbtMasculino.Location = new System.Drawing.Point(16, 45);
             this.rbtMasculino.Name = "rbtMasculino";
             this.rbtMasculino.Size = new System.Drawing.Size(73, 17);
-            this.rbtMasculino.TabIndex = 12;
+            this.rbtMasculino.TabIndex = 14;
             this.rbtMasculino.TabStop = true;
             this.rbtMasculino.Text = "Masculino";
             this.rbtMasculino.UseVisualStyleBackColor = true;
@@ -157,7 +161,7 @@
             this.rbtInformar.Location = new System.Drawing.Point(16, 68);
             this.rbtInformar.Name = "rbtInformar";
             this.rbtInformar.Size = new System.Drawing.Size(86, 17);
-            this.rbtInformar.TabIndex = 13;
+            this.rbtInformar.TabIndex = 15;
             this.rbtInformar.TabStop = true;
             this.rbtInformar.Text = "Não Informar";
             this.rbtInformar.UseVisualStyleBackColor = true;
@@ -170,7 +174,7 @@
             this.groupBox1.Location = new System.Drawing.Point(54, 187);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(114, 100);
-            this.groupBox1.TabIndex = 14;
+            this.groupBox1.TabIndex = 12;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Gênero";
             // 
@@ -190,7 +194,7 @@
             this.clbLinguagens.Location = new System.Drawing.Point(415, 187);
             this.clbLinguagens.Name = "clbLinguagens";
             this.clbLinguagens.Size = new System.Drawing.Size(101, 105);
-            this.clbLinguagens.TabIndex = 15;
+            this.clbLinguagens.TabIndex = 17;
             // 
             // label5
             // 
@@ -206,7 +210,7 @@
             this.btnSalvar.Location = new System.Drawing.Point(265, 315);
             this.btnSalvar.Name = "btnSalvar";
             this.btnSalvar.Size = new System.Drawing.Size(112, 39);
-            this.btnSalvar.TabIndex = 17;
+            this.btnSalvar.TabIndex = 18;
             this.btnSalvar.Text = "SALVAR";
             this.btnSalvar.UseVisualStyleBackColor = true;
             this.btnSalvar.Click += new System.EventHandler(this.btnSalvar_Click);
@@ -218,13 +222,50 @@
             this.txtResumo.Name = "txtResumo";
             this.txtResumo.ReadOnly = true;
             this.txtResumo.Size = new System.Drawing.Size(314, 47);
-            this.txtResumo.TabIndex = 18;
+            this.txtResumo.TabIndex = 19;
+            // 
+            // txtEmail
+            // 
+            this.txtEmail.Location = new System.Drawing.Point(54, 90);
+            this.txtEmail.Name = "txtEmail";
+            this.txtEmail.Size = new System.Drawing.Size(236, 20);
+            this.txtEmail.TabIndex = 5;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(51, 74);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(38, 13);
+            this.label6.TabIndex = 4;
+            this.label6.Text = "E-mail:";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(347, 74);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(41, 13);
+            this.label7.TabIndex = 6;
+            this.label7.Text = "Senha:";
+            // 
+            // txtSenha
+            // 
+            this.txtSenha.Location = new System.Drawing.Point(350, 90);
+            this.txtSenha.Name = "txtSenha";
+            this.txtSenha.PasswordChar = '*';
+            this.txtSenha.Size = new System.Drawing.Size(236, 20);
+            this.txtSenha.TabIndex = 7;
             // 
             // FrmCadastro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(668, 430);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.txtSenha);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.txtResumo);
             this.Controls.Add(this.btnSalvar);
             this.Controls.Add(this.label5);
@@ -267,5 +308,9 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button btnSalvar;
         private System.Windows.Forms.TextBox txtResumo;
+        private System.Windows.Forms.TextBox txtEmail;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TextBox txtSenha;
     }
 }

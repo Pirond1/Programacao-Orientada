@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Runtime.Versioning;
 using System.Text;
@@ -27,7 +28,8 @@ namespace Aula1
         private void btnLogin_Click(object sender, EventArgs e)
         {
             //validar os dados
-            if (txtEmail.Text == "admin@admin.com" && txtSenha.Text == "123456")
+            bool retorno = validarLogin();
+            if (retorno)
             {
                 txtEmail.Text = "";
                 txtSenha.Text = "";
@@ -36,6 +38,30 @@ namespace Aula1
             }
             else
                 MessageBox.Show("Dados Invalidos!");
+        }
+
+        private bool validarLogin()
+        {
+            bool retorno = false;
+
+            //ler o Arquivo
+            String caminho = "C:\\Users\\gustavopirondi\\Documents\\GitHub\\Programacao-Orientada\\Aula1\\Arquivo\\Dados.txt";
+            StreamReader Arquivo = File.OpenText(caminho);
+            String linha = "";
+            String[] vetor = new string[3]; //Criando um Array de 3 Posições
+            while(Arquivo.EndOfStream != true)
+            {
+                linha = Arquivo.ReadLine();
+                vetor = linha.Split('|');
+                if (txtEmail.Text == vetor[1] && txtSenha.Text == vetor[2])
+                {
+                    retorno = true;
+                    break;
+                }  
+            }
+            Arquivo.Close();
+
+            return retorno;
         }
     }
 }
