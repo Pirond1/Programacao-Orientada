@@ -22,5 +22,11 @@ namespace Aula1
             FrmCalculo1 calculo1 = new FrmCalculo1();
             calculo1.ShowDialog();
         }
+
+        private void calculo2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmCalculo2 calculo2 = new FrmCalculo2();
+            calculo2.ShowDialog();
+        }
     }
 }

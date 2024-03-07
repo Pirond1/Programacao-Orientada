@@ -13,6 +13,7 @@ namespace Aula1
 {
     public partial class FrmCadastro : Form
     {
+        string salvargenero;
         public FrmCadastro()
         {
             InitializeComponent();
@@ -87,12 +88,21 @@ namespace Aula1
             if (rbtFeminino.Checked || rbtMasculino.Checked || rbtInformar.Checked)
             {
                 if (rbtFeminino.Checked)
+                {
                     resumo += "\r\nGênero : Feminino";
-                else 
+                    salvargenero = "Feminino";
+                }
+                else
                     if (rbtMasculino.Checked)
+                    {
                         resumo += "\r\nGênero : Masculino";
-                        else 
-                            resumo += "\r\nGênero : Não Informar";
+                        salvargenero = "Masculino";
+                    }
+                    else
+                    {
+                        resumo += "\r\nGênero : Não Informar";
+                        salvargenero = "Não Informar";
+                    }       
             }
             else
                 validar += "\r\nInformar o Gênero!";
@@ -114,18 +124,31 @@ namespace Aula1
             {
                 txtResumo.Text = resumo;
                 gravarArquivo();
+                txtNome.Text = "";
+                txtEmail.Text = "";
+                txtSenha.Text = "";
+                cbbEstado.SelectedIndex = -1;
+                cbbCidade.SelectedIndex = -1;
+                rbtFeminino.Checked = false;
+                rbtMasculino.Checked = false;
+                rbtInformar.Checked = false;
+                for(int i = 0; i < clbLinguagens.Items.Count; i++)
+                {
+                    clbLinguagens.SetSelected(i, false);
+                    clbLinguagens.SetItemChecked(i, false);
+                }
             }
         }
 
         public void gravarArquivo()
         {
-            String caminho = "C:\\Users\\gustavopirondi\\Documents\\GitHub\\Programacao-Orientada\\Aula1\\Arquivo\\Dados.txt";
+            String caminho = "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\Aula1\\Arquivo\\Dados.txt";
             StreamWriter Arquivo = null;
             if(!File.Exists(caminho))
                 Arquivo = File.CreateText(caminho); //Criar
             else
                 Arquivo = File.AppendText(caminho); //Ja Existe
-            Arquivo.WriteLine(txtNome.Text + "|" + txtEmail.Text + "|" + txtSenha.Text);
+            Arquivo.WriteLine(txtNome.Text + "|" + txtEmail.Text + "|" + txtSenha.Text + "|" + txtDataNascimento.Text + "|" + cbbEstado.Text + "|" + cbbCidade.Text + "|" + salvargenero);
             Arquivo.Close();
         }
     }

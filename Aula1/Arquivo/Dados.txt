@@ -1,2 +1,2 @@
-Gustavo|gustavopirondi@gmail.com|123456
-Eduardo|eduardopirondi@outlook.com|654321
+Gustavo|gustavopirondi@gmail.com|123456|09/09/2005|São Paulo|Presidente Prudente|Masculino
+Eduardo|eduardopirondi@outlook.com|654321|11/12/2008|São Paulo|Presidente Prudente|Não Informar

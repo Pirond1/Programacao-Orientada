@@ -45,7 +45,7 @@ namespace Aula1
             bool retorno = false;
 
             //ler o Arquivo
-            String caminho = "C:\\Users\\gustavopirondi\\Documents\\GitHub\\Programacao-Orientada\\Aula1\\Arquivo\\Dados.txt";
+            String caminho = "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\Aula1\\Arquivo\\Dados.txt";
             StreamReader Arquivo = File.OpenText(caminho);
             String linha = "";
             String[] vetor = new string[3]; //Criando um Array de 3 Posições

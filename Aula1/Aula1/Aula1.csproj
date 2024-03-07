@@ -64,6 +64,12 @@
     <Compile Include="FrmCalculo1.Designer.cs">
       <DependentUpon>FrmCalculo1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmCalculo2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCalculo2.Designer.cs">
+      <DependentUpon>FrmCalculo2.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +86,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmCalculo1.resx">
       <DependentUpon>FrmCalculo1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCalculo2.resx">
+      <DependentUpon>FrmCalculo2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmPrincipal.resx">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>

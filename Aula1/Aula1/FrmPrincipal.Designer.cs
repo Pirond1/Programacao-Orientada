@@ -66,6 +66,7 @@
             this.calculo2ToolStripMenuItem.Name = "calculo2ToolStripMenuItem";
             this.calculo2ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.calculo2ToolStripMenuItem.Text = "Calculo 2";
+            this.calculo2ToolStripMenuItem.Click += new System.EventHandler(this.calculo2ToolStripMenuItem_Click);
             // 
             // FrmPrincipal
             // 
