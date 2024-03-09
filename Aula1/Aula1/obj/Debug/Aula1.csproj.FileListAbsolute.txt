@@ -25,3 +25,4 @@ C:\Users\User\Documents\GitHub\Programacao-Orientada\Aula1\Aula1\obj\Debug\Aula1
 C:\Users\User\Documents\GitHub\Programacao-Orientada\Aula1\Aula1\obj\Debug\Aula1.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\GitHub\Programacao-Orientada\Aula1\Aula1\obj\Debug\Aula1.exe
 C:\Users\User\Documents\GitHub\Programacao-Orientada\Aula1\Aula1\obj\Debug\Aula1.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\Aula1\Aula1\obj\Debug\Aula1.FrmCalculo2.resources

@@ -14,6 +14,8 @@ namespace Aula1
     public partial class FrmCadastro : Form
     {
         string salvargenero;
+        string salvarlinguagem = "";
+
         public FrmCadastro()
         {
             InitializeComponent();
@@ -113,6 +115,7 @@ namespace Aula1
                 for (int i = 0; i < clbLinguagens.CheckedItems.Count; i++)
                 {
                     resumo += clbLinguagens.CheckedItems[i].ToString() + ", ";
+                    salvarlinguagem += clbLinguagens.CheckedItems[i].ToString() + "-";
                 }
             }
             else
@@ -142,13 +145,13 @@ namespace Aula1
 
         public void gravarArquivo()
         {
-            String caminho = "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\Aula1\\Arquivo\\Dados.txt";
+            String caminho = "C:\\Users\\gustavopirondi\\Documents\\GitHub\\Programacao-Orientada\\Aula1\\Arquivo\\Dados.txt";
             StreamWriter Arquivo = null;
             if(!File.Exists(caminho))
                 Arquivo = File.CreateText(caminho); //Criar
             else
                 Arquivo = File.AppendText(caminho); //Ja Existe
-            Arquivo.WriteLine(txtNome.Text + "|" + txtEmail.Text + "|" + txtSenha.Text + "|" + txtDataNascimento.Text + "|" + cbbEstado.Text + "|" + cbbCidade.Text + "|" + salvargenero);
+            Arquivo.WriteLine(txtNome.Text + "|" + txtEmail.Text + "|" + txtSenha.Text + "|" + txtDataNascimento.Text + "|" + cbbEstado.Text + "|" + cbbCidade.Text + "|" + salvargenero + "|" + salvarlinguagem);
             Arquivo.Close();
         }
     }
