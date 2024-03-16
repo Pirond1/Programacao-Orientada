@@ -1,0 +1,9 @@
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\bin\Debug\ProjetoClasses.exe.config
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\bin\Debug\ProjetoClasses.exe
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\bin\Debug\ProjetoClasses.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.csproj.AssemblyReference.cache
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.Properties.Resources.resources
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.csproj.GenerateResource.cache
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.csproj.CoreCompileInputs.cache
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.exe
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.pdb
