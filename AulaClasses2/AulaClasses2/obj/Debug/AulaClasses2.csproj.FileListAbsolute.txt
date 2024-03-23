@@ -1,0 +1,13 @@
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\AulaClasses2\AulaClasses2\bin\Debug\AulaClasses2.exe.config
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\AulaClasses2\AulaClasses2\bin\Debug\AulaClasses2.exe
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\AulaClasses2\AulaClasses2\bin\Debug\AulaClasses2.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\AulaClasses2\AulaClasses2\obj\Debug\AulaClasses2.csproj.AssemblyReference.cache
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\AulaClasses2\AulaClasses2\obj\Debug\AulaClasses2.Properties.Resources.resources
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\AulaClasses2\AulaClasses2\obj\Debug\AulaClasses2.csproj.GenerateResource.cache
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\AulaClasses2\AulaClasses2\obj\Debug\AulaClasses2.csproj.CoreCompileInputs.cache
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\AulaClasses2\AulaClasses2\obj\Debug\AulaClasses2.exe
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\AulaClasses2\AulaClasses2\obj\Debug\AulaClasses2.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\AulaClasses2\AulaClasses2\obj\Debug\AulaClasses2.Form1.resources
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\AulaClasses2\AulaClasses2\bin\Debug\Entidades.dll
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\AulaClasses2\AulaClasses2\bin\Debug\Entidades.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\AulaClasses2\AulaClasses2\obj\Debug\AulaClasses2.csproj.CopyComplete
