@@ -7,3 +7,16 @@ C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\Pr
 C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.csproj.CoreCompileInputs.cache
 C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.exe
 C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.pdb
+C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\bin\Debug\ProjetoClasses.exe.config
+C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\bin\Debug\ProjetoClasses.exe
+C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\bin\Debug\ProjetoClasses.pdb
+C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\bin\Debug\Entidades.dll
+C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\bin\Debug\Entidades.pdb
+C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.Form1.resources
+C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoC.51CAB2AB.Up2Date
+C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.exe
+C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.pdb
