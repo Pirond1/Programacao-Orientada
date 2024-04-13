@@ -20,3 +20,7 @@ C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClass
 C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoC.51CAB2AB.Up2Date
 C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.exe
 C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\bin\Debug\Entidades.dll
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\bin\Debug\Entidades.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.Form1.resources
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.csproj.CopyComplete

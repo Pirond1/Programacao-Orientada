@@ -21,11 +21,6 @@ namespace Entidades
                 if (this.Saldo >= valor)
                 {
                     Saldo -= valor;
-                    MessageBox.Show("Saque Realizado!");
-            }
-                else
-                {
-                    MessageBox.Show("Saldo Insuficiente!");
                 }
             }
 

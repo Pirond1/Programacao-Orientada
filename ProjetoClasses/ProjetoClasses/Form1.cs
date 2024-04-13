@@ -85,6 +85,7 @@ namespace ProjetoClasses
             if(obj != null)
             {
                 obj.Sacar(decimal.Parse(txtValor.Text));
+                MessageBox.Show("Saque Realizado!");
             }
             else
             {

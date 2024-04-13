@@ -4,3 +4,9 @@ C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\Entidades\ob
 C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\Entidades\obj\Debug\Entidades.dll
 C:\Users\User\Documents\GitHub\Programacao-Orientada\ProjetoClasses\Entidades\obj\Debug\Entidades.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\Entidades\bin\Debug\Entidades.dll
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\Entidades\bin\Debug\Entidades.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\Entidades\obj\Debug\Entidades.dll
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoClasses\Entidades\obj\Debug\Entidades.pdb
