@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA53D34E-C392-4683-A942-9EBD143FCE55}|Entidades\\Entidades.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\projetorelacionamentos\\entidades\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA53D34E-C392-4683-A942-9EBD143FCE55}|Entidades\\Entidades.csproj|solutionrelative:entidades\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA53D34E-C392-4683-A942-9EBD143FCE55}|Entidades\\Entidades.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\projetorelacionamentos\\entidades\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA53D34E-C392-4683-A942-9EBD143FCE55}|Entidades\\Entidades.csproj|solutionrelative:entidades\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA53D34E-C392-4683-A942-9EBD143FCE55}|Entidades\\Entidades.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\projetorelacionamentos\\entidades\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA53D34E-C392-4683-A942-9EBD143FCE55}|Entidades\\Entidades.csproj|solutionrelative:entidades\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA53D34E-C392-4683-A942-9EBD143FCE55}|Entidades\\Entidades.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\projetorelacionamentos\\entidades\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA53D34E-C392-4683-A942-9EBD143FCE55}|Entidades\\Entidades.csproj|solutionrelative:entidades\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA53D34E-C392-4683-A942-9EBD143FCE55}|Entidades\\Entidades.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\projetorelacionamentos\\entidades\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA53D34E-C392-4683-A942-9EBD143FCE55}|Entidades\\Entidades.csproj|solutionrelative:entidades\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA53D34E-C392-4683-A942-9EBD143FCE55}|Entidades\\Entidades.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\projetorelacionamentos\\entidades\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA53D34E-C392-4683-A942-9EBD143FCE55}|Entidades\\Entidades.csproj|solutionrelative:entidades\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5744975D-5131-4596-B5F3-3164D6BC3D53}|ProjetoRelacionamentos\\ProjetoRelacionamentos.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\projetorelacionamentos\\projetorelacionamentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5744975D-5131-4596-B5F3-3164D6BC3D53}|ProjetoRelacionamentos\\ProjetoRelacionamentos.csproj|solutionrelative:projetorelacionamentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\Entidades\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "Entidades\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\Entidades\\Biblioteca.cs",
+              "RelativeToolTip": "Entidades\\Biblioteca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:11:54.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\Entidades\\Livro.cs",
+              "RelativeDocumentMoniker": "Entidades\\Livro.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\Entidades\\Livro.cs",
+              "RelativeToolTip": "Entidades\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:10:24.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\Entidades\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\Entidades\\Emprestimo.cs",
+              "RelativeToolTip": "Entidades\\Emprestimo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:58:41.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\Entidades\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Entidades\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\Entidades\\Funcionario.cs",
+              "RelativeToolTip": "Entidades\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:55:33.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\Entidades\\Aluno.cs",
+              "RelativeDocumentMoniker": "Entidades\\Aluno.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\Entidades\\Aluno.cs",
+              "RelativeToolTip": "Entidades\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:53:48.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\Entidades\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Entidades\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\Entidades\\Pessoa.cs",
+              "RelativeToolTip": "Entidades\\Pessoa.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:46:44.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\ProjetoRelacionamentos\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoRelacionamentos\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\ProjetoRelacionamentos\\ProjetoRelacionamentos\\Form1.cs [Design]",
+              "RelativeToolTip": "ProjetoRelacionamentos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:41:56.168Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
