@@ -1,0 +1,13 @@
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoHeranca\ProjetoHeranca\bin\Debug\ProjetoHeranca.exe.config
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoHeranca\ProjetoHeranca\bin\Debug\ProjetoHeranca.exe
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoHeranca\ProjetoHeranca\bin\Debug\ProjetoHeranca.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoHeranca\ProjetoHeranca\bin\Debug\Entidades.dll
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoHeranca\ProjetoHeranca\bin\Debug\Entidades.pdb
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoHeranca\ProjetoHeranca\obj\Debug\ProjetoHeranca.csproj.AssemblyReference.cache
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoHeranca\ProjetoHeranca\obj\Debug\ProjetoHeranca.Form1.resources
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoHeranca\ProjetoHeranca\obj\Debug\ProjetoHeranca.Properties.Resources.resources
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoHeranca\ProjetoHeranca\obj\Debug\ProjetoHeranca.csproj.GenerateResource.cache
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoHeranca\ProjetoHeranca\obj\Debug\ProjetoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoHeranca\ProjetoHeranca\obj\Debug\ProjetoHeranca.csproj.CopyComplete
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoHeranca\ProjetoHeranca\obj\Debug\ProjetoHeranca.exe
+C:\Users\gustavopirondi\Documents\GitHub\Programacao-Orientada\ProjetoHeranca\ProjetoHeranca\obj\Debug\ProjetoHeranca.pdb
