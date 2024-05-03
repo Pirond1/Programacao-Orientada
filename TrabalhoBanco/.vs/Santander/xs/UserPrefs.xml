@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F9751D9E-2530-4201-B3B0-3C20ADE4E16F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Santander/Form1.cs">
+    <Files>
+      <File FileName="Entidades/ContaBancaria.cs" />
+      <File FileName="Santander/Form1.cs" Line="45" Column="22" />
+      <File FileName="Entidades/ContaPoupanca.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Santander">
+            <Node name="Entidades" expanded="True" />
+            <Node name="Santander" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Santander PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

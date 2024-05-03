@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhoBanco", "Santander\TrabalhoBanco.csproj", "{F9751D9E-2530-4201-B3B0-3C20ADE4E16F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{73C5663B-296E-452C-9363-0FB8F9A94833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9751D9E-2530-4201-B3B0-3C20ADE4E16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9751D9E-2530-4201-B3B0-3C20ADE4E16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9751D9E-2530-4201-B3B0-3C20ADE4E16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9751D9E-2530-4201-B3B0-3C20ADE4E16F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C5663B-296E-452C-9363-0FB8F9A94833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C5663B-296E-452C-9363-0FB8F9A94833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C5663B-296E-452C-9363-0FB8F9A94833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C5663B-296E-452C-9363-0FB8F9A94833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {905EB713-F90D-435A-A287-DB1181F8A6B1}
+	EndGlobalSection
+EndGlobal

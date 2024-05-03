@@ -1,0 +1,6 @@
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Entidades\obj\Debug\Entidades.pdb

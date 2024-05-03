@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E172320-4611-43B1-AB9D-F9AF39069E4A}|TrabalhoBanco\\TrabalhoBanco.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\trabalhobanco\\trabalhobanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E172320-4611-43B1-AB9D-F9AF39069E4A}|TrabalhoBanco\\TrabalhoBanco.csproj|solutionrelative:trabalhobanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E172320-4611-43B1-AB9D-F9AF39069E4A}|TrabalhoBanco\\TrabalhoBanco.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\trabalhobanco\\trabalhobanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E172320-4611-43B1-AB9D-F9AF39069E4A}|TrabalhoBanco\\TrabalhoBanco.csproj|solutionrelative:trabalhobanco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A60A8A-AF71-4E81-8712-ADDCD6C51BFD}|Entidades\\Entidades.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\trabalhobanco\\entidades\\contapoupan\u00E7a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A60A8A-AF71-4E81-8712-ADDCD6C51BFD}|Entidades\\Entidades.csproj|solutionrelative:entidades\\contapoupan\u00E7a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A60A8A-AF71-4E81-8712-ADDCD6C51BFD}|Entidades\\Entidades.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\trabalhobanco\\entidades\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A60A8A-AF71-4E81-8712-ADDCD6C51BFD}|Entidades\\Entidades.csproj|solutionrelative:entidades\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A60A8A-AF71-4E81-8712-ADDCD6C51BFD}|Entidades\\Entidades.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\trabalhobanco\\entidades\\contaespecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A60A8A-AF71-4E81-8712-ADDCD6C51BFD}|Entidades\\Entidades.csproj|solutionrelative:entidades\\contaespecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaEspecial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\Entidades\\ContaEspecial.cs",
+              "RelativeDocumentMoniker": "Entidades\\ContaEspecial.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\Entidades\\ContaEspecial.cs",
+              "RelativeToolTip": "Entidades\\ContaEspecial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T22:59:50.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaPoupan\u00E7a.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\Entidades\\ContaPoupan\u00E7a.cs",
+              "RelativeDocumentMoniker": "Entidades\\ContaPoupan\u00E7a.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\Entidades\\ContaPoupan\u00E7a.cs",
+              "RelativeToolTip": "Entidades\\ContaPoupan\u00E7a.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:02:38.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\Entidades\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Entidades\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\Entidades\\ContaBancaria.cs",
+              "RelativeToolTip": "Entidades\\ContaBancaria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T22:59:23.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\TrabalhoBanco\\Form1.cs",
+              "RelativeDocumentMoniker": "TrabalhoBanco\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\TrabalhoBanco\\Form1.cs",
+              "RelativeToolTip": "TrabalhoBanco\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T22:58:31.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\TrabalhoBanco\\Form1.cs",
+              "RelativeDocumentMoniker": "TrabalhoBanco\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\TrabalhoBanco\\Form1.cs [Design]",
+              "RelativeToolTip": "TrabalhoBanco\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T22:57:39.806Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

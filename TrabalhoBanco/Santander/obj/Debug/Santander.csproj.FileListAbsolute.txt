@@ -1,0 +1,13 @@
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Santander\bin\Debug\Santander.exe.config
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Santander\bin\Debug\Santander.exe
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Santander\bin\Debug\Santander.pdb
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Santander\bin\Debug\Entidades.dll
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Santander\bin\Debug\Entidades.pdb
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Santander\obj\Debug\Santander.csproj.AssemblyReference.cache
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Santander\obj\Debug\Santander.Properties.Resources.resources
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Santander\obj\Debug\Santander.csproj.GenerateResource.cache
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Santander\obj\Debug\Santander.csproj.CoreCompileInputs.cache
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Santander\obj\Debug\Santander.csproj.Up2Date
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Santander\obj\Debug\Santander.exe
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Santander\obj\Debug\Santander.pdb
+C:\Users\lucal\OneDrive\Documents\GitHub\programacao-orientada-a-objeto\Trabalhos\Santander\Santander\obj\Debug\Santander.Form1.resources

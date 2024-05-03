@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9751D9E-2530-4201-B3B0-3C20ADE4E16F}|Santander\\TrabalhoBanco.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\trabalhobanco\\santander\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9751D9E-2530-4201-B3B0-3C20ADE4E16F}|Santander\\TrabalhoBanco.csproj|solutionrelative:santander\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucal\\OneDrive\\Documents\\GitHub\\programacao-orientada-a-objeto\\Trabalhos\\Santander\\Santander\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucal\\OneDrive\\Documents\\GitHub\\programacao-orientada-a-objeto\\Trabalhos\\Santander\\Santander\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C5663B-296E-452C-9363-0FB8F9A94833}|Entidades\\Entidades.csproj|C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\entidades\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C5663B-296E-452C-9363-0FB8F9A94833}|Entidades\\Entidades.csproj|solutionrelative:entidades\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C5663B-296E-452C-9363-0FB8F9A94833}|Entidades\\Entidades.csproj|C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\entidades\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C5663B-296E-452C-9363-0FB8F9A94833}|Entidades\\Entidades.csproj|solutionrelative:entidades\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C5663B-296E-452C-9363-0FB8F9A94833}|Entidades\\Entidades.csproj|C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\entidades\\contaespecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73C5663B-296E-452C-9363-0FB8F9A94833}|Entidades\\Entidades.csproj|solutionrelative:entidades\\contaespecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\Santander\\Form1.cs",
+              "RelativeDocumentMoniker": "Santander\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\Santander\\Form1.cs [Design]",
+              "RelativeToolTip": "Santander\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:47:45.413Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lucal\\OneDrive\\Documents\\GitHub\\programacao-orientada-a-objeto\\Trabalhos\\Santander\\Santander\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\lucal\\OneDrive\\Documents\\GitHub\\programacao-orientada-a-objeto\\Trabalhos\\Santander\\Santander\\Form1.cs",
+              "ToolTip": "C:\\Users\\lucal\\OneDrive\\Documents\\GitHub\\programacao-orientada-a-objeto\\Trabalhos\\Santander\\Santander\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\lucal\\OneDrive\\Documents\\GitHub\\programacao-orientada-a-objeto\\Trabalhos\\Santander\\Santander\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:44:09.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lucal\\OneDrive\\Documents\\GitHub\\programacao-orientada-a-objeto\\Trabalhos\\Santander\\Santander\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\lucal\\OneDrive\\Documents\\GitHub\\programacao-orientada-a-objeto\\Trabalhos\\Santander\\Santander\\Form1.cs",
+              "ToolTip": "C:\\Users\\lucal\\OneDrive\\Documents\\GitHub\\programacao-orientada-a-objeto\\Trabalhos\\Santander\\Santander\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\lucal\\OneDrive\\Documents\\GitHub\\programacao-orientada-a-objeto\\Trabalhos\\Santander\\Santander\\Form1.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAUwFoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:36:37.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContaEspecial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\Entidades\\ContaEspecial.cs",
+              "RelativeDocumentMoniker": "Entidades\\ContaEspecial.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\Entidades\\ContaEspecial.cs",
+              "RelativeToolTip": "Entidades\\ContaEspecial.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:29:40.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\Entidades\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "Entidades\\ContaPoupanca.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\Entidades\\ContaPoupanca.cs",
+              "RelativeToolTip": "Entidades\\ContaPoupanca.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:13:22.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\Entidades\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Entidades\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoBanco\\Entidades\\ContaBancaria.cs",
+              "RelativeToolTip": "Entidades\\ContaBancaria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T22:33:40.036Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
