@@ -1,0 +1,6 @@
+C:\Users\User\Documents\GitHub\Programacao-Orientada\PojetoPolimorfismo\Entidades\bin\Debug\Entidades.dll
+C:\Users\User\Documents\GitHub\Programacao-Orientada\PojetoPolimorfismo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User\Documents\GitHub\Programacao-Orientada\PojetoPolimorfismo\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Programacao-Orientada\PojetoPolimorfismo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Programacao-Orientada\PojetoPolimorfismo\Entidades\obj\Debug\Entidades.dll
+C:\Users\User\Documents\GitHub\Programacao-Orientada\PojetoPolimorfismo\Entidades\obj\Debug\Entidades.pdb
