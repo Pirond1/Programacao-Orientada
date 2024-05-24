@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B39F22E-2C87-4E20-B73A-847BC8A8DC4A}|TrabalhoAbstrata\\TrabalhoAbstrata.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\trabalhoabstrata\\trabalhoabstrata\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B39F22E-2C87-4E20-B73A-847BC8A8DC4A}|TrabalhoAbstrata\\TrabalhoAbstrata.csproj|solutionrelative:trabalhoabstrata\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47B8AD5-C58E-434A-9CE6-70C6035669A6}|Entidades\\Entidades.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\trabalhoabstrata\\entidades\\chefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47B8AD5-C58E-434A-9CE6-70C6035669A6}|Entidades\\Entidades.csproj|solutionrelative:entidades\\chefe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47B8AD5-C58E-434A-9CE6-70C6035669A6}|Entidades\\Entidades.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\trabalhoabstrata\\entidades\\poritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47B8AD5-C58E-434A-9CE6-70C6035669A6}|Entidades\\Entidades.csproj|solutionrelative:entidades\\poritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47B8AD5-C58E-434A-9CE6-70C6035669A6}|Entidades\\Entidades.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\trabalhoabstrata\\entidades\\porhora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47B8AD5-C58E-434A-9CE6-70C6035669A6}|Entidades\\Entidades.csproj|solutionrelative:entidades\\porhora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B39F22E-2C87-4E20-B73A-847BC8A8DC4A}|TrabalhoAbstrata\\TrabalhoAbstrata.csproj|C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\trabalhoabstrata\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B39F22E-2C87-4E20-B73A-847BC8A8DC4A}|TrabalhoAbstrata\\TrabalhoAbstrata.csproj|solutionrelative:trabalhoabstrata\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47B8AD5-C58E-434A-9CE6-70C6035669A6}|Entidades\\Entidades.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\trabalhoabstrata\\entidades\\empregado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47B8AD5-C58E-434A-9CE6-70C6035669A6}|Entidades\\Entidades.csproj|solutionrelative:entidades\\empregado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47B8AD5-C58E-434A-9CE6-70C6035669A6}|Entidades\\Entidades.csproj|c:\\users\\user\\documents\\github\\programacao-orientada\\trabalhoabstrata\\entidades\\porcomissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47B8AD5-C58E-434A-9CE6-70C6035669A6}|Entidades\\Entidades.csproj|solutionrelative:entidades\\porcomissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\TrabalhoAbstrata\\Form1.cs",
+              "RelativeDocumentMoniker": "TrabalhoAbstrata\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\TrabalhoAbstrata\\Form1.cs",
+              "RelativeToolTip": "TrabalhoAbstrata\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:44:36.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PorItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\Entidades\\PorItem.cs",
+              "RelativeDocumentMoniker": "Entidades\\PorItem.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\Entidades\\PorItem.cs",
+              "RelativeToolTip": "Entidades\\PorItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:43:53.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PorHora.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\Entidades\\PorHora.cs",
+              "RelativeDocumentMoniker": "Entidades\\PorHora.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\Entidades\\PorHora.cs",
+              "RelativeToolTip": "Entidades\\PorHora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:43:42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PorComissao.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\Entidades\\PorComissao.cs",
+              "RelativeDocumentMoniker": "Entidades\\PorComissao.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\Entidades\\PorComissao.cs",
+              "RelativeToolTip": "Entidades\\PorComissao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:43:28.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empregado.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\Entidades\\Empregado.cs",
+              "RelativeDocumentMoniker": "Entidades\\Empregado.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\Entidades\\Empregado.cs",
+              "RelativeToolTip": "Entidades\\Empregado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:42:56.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chefe.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\Entidades\\Chefe.cs",
+              "RelativeDocumentMoniker": "Entidades\\Chefe.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\Entidades\\Chefe.cs",
+              "RelativeToolTip": "Entidades\\Chefe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:42:20.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\TrabalhoAbstrata\\Form1.cs",
+              "RelativeDocumentMoniker": "TrabalhoAbstrata\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Programacao-Orientada\\TrabalhoAbstrata\\TrabalhoAbstrata\\Form1.cs [Design]",
+              "RelativeToolTip": "TrabalhoAbstrata\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:37:49.561Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

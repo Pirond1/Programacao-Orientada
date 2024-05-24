@@ -1,0 +1,13 @@
+C:\Users\User\Documents\GitHub\Programacao-Orientada\TrabalhoAbstrata\TrabalhoAbstrata\bin\Debug\TrabalhoAbstrata.exe.config
+C:\Users\User\Documents\GitHub\Programacao-Orientada\TrabalhoAbstrata\TrabalhoAbstrata\bin\Debug\TrabalhoAbstrata.exe
+C:\Users\User\Documents\GitHub\Programacao-Orientada\TrabalhoAbstrata\TrabalhoAbstrata\bin\Debug\TrabalhoAbstrata.pdb
+C:\Users\User\Documents\GitHub\Programacao-Orientada\TrabalhoAbstrata\TrabalhoAbstrata\bin\Debug\Entidades.dll
+C:\Users\User\Documents\GitHub\Programacao-Orientada\TrabalhoAbstrata\TrabalhoAbstrata\bin\Debug\Entidades.pdb
+C:\Users\User\Documents\GitHub\Programacao-Orientada\TrabalhoAbstrata\TrabalhoAbstrata\obj\Debug\TrabalhoAbstrata.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Programacao-Orientada\TrabalhoAbstrata\TrabalhoAbstrata\obj\Debug\TrabalhoAbstrata.Form1.resources
+C:\Users\User\Documents\GitHub\Programacao-Orientada\TrabalhoAbstrata\TrabalhoAbstrata\obj\Debug\TrabalhoAbstrata.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\Programacao-Orientada\TrabalhoAbstrata\TrabalhoAbstrata\obj\Debug\TrabalhoAbstrata.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\Programacao-Orientada\TrabalhoAbstrata\TrabalhoAbstrata\obj\Debug\TrabalhoAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Programacao-Orientada\TrabalhoAbstrata\TrabalhoAbstrata\obj\Debug\Trabalho.57288C76.Up2Date
+C:\Users\User\Documents\GitHub\Programacao-Orientada\TrabalhoAbstrata\TrabalhoAbstrata\obj\Debug\TrabalhoAbstrata.exe
+C:\Users\User\Documents\GitHub\Programacao-Orientada\TrabalhoAbstrata\TrabalhoAbstrata\obj\Debug\TrabalhoAbstrata.pdb
